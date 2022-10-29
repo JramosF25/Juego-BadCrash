@@ -1,2 +1,3 @@
-# Juego-BadCrash
- RPG Zombie Video Game
+# bad-crash
+ 
+Después de haberlo descargarlo puedes abrir el archivo .exe para ejecutarlo
